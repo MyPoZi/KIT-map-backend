@@ -8,7 +8,7 @@
 | 0 | building-000| API | building_API | 建物の番号と座標を返す　|
 | 1 | room-001 | API | room_API | [WIP]予定では建物内の番号など　|
 
-##building-000
+## building-000  
 | API機能No. | building-000 |
 |:-----------|:------------|
 | API名 | データの取得 | |
