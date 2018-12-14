@@ -1,6 +1,6 @@
 # KIT-map-backend
 
-##API一覧
+## API一覧
 
 
 | No. | API機能No. | 種別 | API名 | 機能概要 |
@@ -8,12 +8,12 @@
 | 0 | building-000| API | building_API | 建物の番号と座標を返す　|
 | 1 | room-001 | API | room_API | [WIP]予定では建物内の番号など　|
 
-## building-000  
+## building-000
 | API機能No. | building-000 |
 |:-----------|:------------|
 | API名 | データの取得 | |
 | 更新日/更新者 | 2018-12-15 MyPoZi | |
-| 概要       | | |
+| 概要       | 建物の番号と座標を返す | |
 
 
 | 入力     | |
