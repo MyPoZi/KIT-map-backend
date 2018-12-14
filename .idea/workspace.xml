@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73bb8ae1-08ee-4083-b682-32efadac195a" name="Default Changelist" comment="" />
+    <list default="true" id="73bb8ae1-08ee-4083-b682-32efadac195a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +33,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="691" />
+          <entry key="go" value="981" />
           <entry key="json" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="691" />
+          <entry key="Go" value="981" />
           <entry key="JSON" value="2" />
         </counts>
       </usages-collector>
@@ -47,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/building.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -56,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+            <state relative-caret-position="373">
+              <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
               <folding>
                 <element signature="e#14#86#0" expanded="true" />
               </folding>
@@ -96,6 +99,26 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralGo</id>
+          </State>
+          <State>
+            <id>Go</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>GoTypesCompatibility</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -108,6 +131,10 @@
             <path>
               <item name="KIT-map-backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="KIT-map-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KIT-map-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -168,15 +195,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/building.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+        <state relative-caret-position="373">
+          <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
           <folding>
             <element signature="e#14#86#0" expanded="true" />
           </folding>

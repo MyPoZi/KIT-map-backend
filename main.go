@@ -7,19 +7,20 @@ import (
 	"log"
 	"net/http"
 	"os"
-	//"path"
-	//"strconv"
+	"path"
+	"strconv"
 )
 
 type Json struct {
-	Status int      `json:"status"`
-	Result string   `json:"result"`
-	Id     int      `json:"id"`
-	//Nya    []string `json:"nya"`
+	Status int     `json:"status"`
+	Result string  `json:"result"`
+	Id     int     `json:"id"`
+	Lat    float64 `json:"lat"`
+	Lng    float64 `json:"lng"`
 }
 
 type Building struct {
-	Id int `json:"id"`
+	Id  int     `json:"id"`
 	Lat float64 `json:"lat"`
 	Lng float64 `json:"lng"`
 }
@@ -35,7 +36,6 @@ func returnResponse(w http.ResponseWriter, body Json) {
 	w.Header().Set("Content-Type", "application/json")
 	w.Write(res)
 	return
-
 }
 
 func handleRequest(w http.ResponseWriter, r *http.Request) {
@@ -48,13 +48,12 @@ func handleRequest(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
+	return
 }
 
 func handleGet(w http.ResponseWriter, r *http.Request) (err error) {
-	//id, err := strconv.Atoi(path.Base(r.URL.Path))
+	id, err := strconv.Atoi(path.Base(r.URL.Path))
 
-	//fmt.Println(id)
-	//body := Json{http.StatusOK, "ok", id}
 	jsonFile, err := os.Open("building.json")
 	if err != nil {
 		fmt.Println("Error opening JSON file:", err)
@@ -74,18 +73,36 @@ func handleGet(w http.ResponseWriter, r *http.Request) (err error) {
 		fmt.Println("Error decoding JSON:", err)
 		return
 	}
-	for _, p := range building {
-		fmt.Printf("%d : %f\n", p.Id, p.Lat)
+
+	// building/ or building/0 のとき
+	if id == 0 {
+		for _, p := range building {
+
+			body := Building{p.Id, p.Lat, p.Lng}
+			res, err := json.Marshal(body)
+
+			if err != nil {
+				http.Error(w, err.Error(), http.StatusInternalServerError)
+			}
+			w.Header().Set("Content-Type", "application/json")
+			w.Write(res)
+		}
+		return
 	}
-	fmt.Println(building)
-	//returnResponse(w, body)
+
+	for _, p := range building {
+
+		if p.Id == id {
+			body := Json{http.StatusOK, "ok", p.Id, p.Lat, p.Lng}
+			returnResponse(w, body)
+			return
+		}
+	}
+	body := Json{http.StatusNotFound, "Not Found", -1, -1, -1}
+	returnResponse(w, body)
 
 	return
 }
-
-//func buildingJsonHandler(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
-//
-//}
 
 func main() {
 	http.HandleFunc("/api/building/", handleRequest)
