@@ -1,0 +1,32 @@
+[
+  {
+    "build_num": 10,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-1.png",
+    "detail": [
+      {
+        "room_name": "扇が丘保育園",
+        "room_num": 100
+      },
+      {
+        "room_name": "ラウンジ",
+        "room_num": 200
+      },
+      {
+        "room_name": "進路開発センター",
+        "room_num": 201
+      },
+      {
+        "room_name": "打合せ室",
+        "room_num": 202
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 200
+      },
+      {
+        "room_name": "打合せ室",
+        "room_num": 203
+      }
+    ]
+  }
+]

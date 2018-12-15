@@ -1,0 +1,264 @@
+[
+  {
+    "build_num": 11,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-1.png",
+    "detail": [
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "診療所",
+        "room_num": 100
+      },
+      {
+        "room_name": "受付",
+        "room_num": 100
+      },
+      {
+        "room_name": "",
+        "room_num": 110
+      },
+      {
+        "room_name": "",
+        "room_num": 111
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 112
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 113
+      },
+      {
+        "room_name": "学友会室",
+        "room_num": 114
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 115
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 212
+      },
+      {
+        "room_name": "委員会堂",
+        "room_num": 210
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 209
+      },
+      {
+        "room_name": "コピー室",
+        "room_num": 208
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 207
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 206
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 205
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 204
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 202
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "201-1"
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "201-2"
+      },
+      {
+        "room_name": "",
+        "room_num": "203-1"
+      },
+      {
+        "room_name": "応接間",
+        "room_num": 200
+      },
+      {
+        "room_name": "応接間",
+        "room_num": 200
+      },
+      {
+        "room_name": "",
+        "room_num": "203-2"
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 317
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 316
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 315
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 314
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 313
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 312
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 311
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 310
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 309
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 306
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 305
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 304
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 303
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 303
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 302
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 301
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 420
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 419
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 418
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 417
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 416
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 415
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 414
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 413
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 412
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 411
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 410
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 409
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 409
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 408
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 407
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 406
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 405
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 404
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 403
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 402
+      },
+      {
+        "room_name": "クラブ控室",
+        "room_num": 401
+      }
+    ]
+  }
+]

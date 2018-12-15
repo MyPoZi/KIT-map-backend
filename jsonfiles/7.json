@@ -1,0 +1,352 @@
+[
+  {
+    "build_num": 7,
+    "pdf": "/assets/campus_pdf/Mappng2/07/07-1.png",
+    "detail": [
+      {
+        "room_name": "管理室",
+        "room_num": 101
+      },
+      {
+        "room_name": "自動販売機",
+        "room_num": 100
+      },
+      {
+        "room_name": "プリンター",
+        "room_num": 100
+      },
+      {
+        "room_name": "自習室",
+        "room_num": 102
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "103-1"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "103-2"
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "ポンプ室",
+        "room_num": 104
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 105
+      },
+      {
+        "room_name": "電気室",
+        "room_num": 106
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 107
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 108
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 109
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 110
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 111
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 112
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 113
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 114
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 115
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 116
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 117
+      },
+      {
+        "room_name": "EV",
+        "room_num": 100
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 201
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 202
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 203
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 204
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 205
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 206
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 207
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 208
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 209
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 210
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 211
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 212
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 213
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 214
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 215
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 216
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 217
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 218
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 219
+      },
+      {
+        "room_name": "ラウンジ",
+        "room_num": 200
+      },
+      {
+        "room_name": "EV",
+        "room_num": 200
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 301
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 302
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 303
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 304
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 305
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 306
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 307
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 308
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 309
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 310
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 311
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 312
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 313
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 314
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 315
+      },
+      {
+        "room_name": "WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "EV",
+        "room_num": 300
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 401
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 411
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 412
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 413
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 403
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 404
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 405
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 430
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 429
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 428
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 427
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 426
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 425
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 424
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 423
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 422
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 421
+      },
+      {
+        "room_name": "WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "EV",
+        "room_num": 400
+      }
+    ]
+  }
+]

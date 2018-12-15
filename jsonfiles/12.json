@@ -1,0 +1,80 @@
+[
+  {
+    "build_num": 12,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-1.png",
+    "detail": [
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "",
+        "room_num": 101
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 103
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 102
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 200
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "アントレプレナーズラボ",
+        "room_num": 201
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 302
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "アントレプレナーズラボ",
+        "room_num": 301
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 403
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 400
+      },
+      {
+        "room_name": "EV",
+        "room_num": 400
+      },
+      {
+        "room_name": "AV事務室",
+        "room_num": 402
+      },
+      {
+        "room_name": "技術編成室",
+        "room_num": 405
+      },
+      {
+        "room_name": "放送室",
+        "room_num": "402-1"
+      },
+      {
+        "room_name": "イノベーションホール",
+        "room_num": 401
+      }
+    ]
+  }
+]

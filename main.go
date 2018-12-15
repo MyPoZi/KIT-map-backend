@@ -1,6 +1,7 @@
 package main
 
 import (
+	"./room"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -106,6 +107,7 @@ func handleGet(w http.ResponseWriter, r *http.Request) (err error) {
 
 func main() {
 	http.HandleFunc("/api/building/", handleRequest)
+	http.HandleFunc("/api/room/", room.HandleRequestRoom)
 
 	if err := http.ListenAndServe(":8080", nil); err != nil {
 		log.Fatal("ListenAndServe", err)
