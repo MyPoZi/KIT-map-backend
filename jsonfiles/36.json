@@ -4,23 +4,23 @@
     "pdf": "/assets/campus_pdf/36.pdf",
     "detail": [
       {
-        "room_name": "Ž––±Žº",
+        "room_name": "äº‹å‹™å®¤",
         "room_num": "101-1"
       },
       {
-        "room_name": "ƒJƒEƒ“ƒZƒ‰[Žº",
+        "room_name": "ã‚«ã‚¦ãƒ³ã‚»ãƒ©ãƒ¼å®¤",
         "room_num": "101-2"
       },
       {
-        "room_name": "ƒJƒEƒ“ƒZƒŠƒ“ƒOŽº1",
+        "room_name": "ã‚«ã‚¦ãƒ³ã‚»ãƒªãƒ³ã‚°å®¤1",
         "room_num": 102
       },
       {
-        "room_name": "ƒJƒEƒ“ƒZƒŠƒ“ƒOŽº2",
+        "room_name": "ã‚«ã‚¦ãƒ³ã‚»ãƒªãƒ³ã‚°å®¤2",
         "room_num": 103
       },
       {
-        "room_name": "Ž‘—¿Žº",
+        "room_name": "è³‡æ–™å®¤",
         "room_num": 104
       },
       {
@@ -28,31 +28,31 @@
         "room_num": 100
       },
       {
-        "room_name": "ô–ÊŽº",
+        "room_name": "æ´—é¢å®¤",
         "room_num": 100
       },
       {
-        "room_name": "ƒz[ƒ‹",
+        "room_name": "ãƒ›ãƒ¼ãƒ«",
         "room_num": 100
       },
       {
-        "room_name": "Œ¤‹†Žº",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 201
       },
       {
-        "room_name": "Œ¤‹†Žº",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 202
       },
       {
-        "room_name": "Œ¤‹†Žº",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 203
       },
       {
-        "room_name": "‘qŒÉ",
+        "room_name": "å€‰åº«",
         "room_num": 204
       },
       {
-        "room_name": "ô–ÊŽº",
+        "room_name": "æ´—é¢å®¤",
         "room_num": 200
       },
       {
@@ -60,19 +60,19 @@
         "room_num": 200
       },
       {
-        "room_name": "‰@’·",
+        "room_name": "é™¢é•·",
         "room_num": 301
       },
       {
-        "room_name": "W’cƒJƒEƒ“ƒZƒŠƒ“ƒOŽº",
+        "room_name": "é›†å›£ã‚«ã‚¦ãƒ³ã‚»ãƒªãƒ³ã‚°å®¤",
         "room_num": "302-1"
       },
       {
-        "room_name": "W’cƒJƒEƒ“ƒZƒŠƒ“ƒOŽº",
+        "room_name": "é›†å›£ã‚«ã‚¦ãƒ³ã‚»ãƒªãƒ³ã‚°å®¤",
         "room_num": "302-2"
       },
       {
-        "room_name": "‘qŒÉ",
+        "room_name": "å€‰åº«",
         "room_num": 303
       },
       {
@@ -80,7 +80,7 @@
         "room_num": 300
       },
       {
-        "room_name": "ô–ÊŽº",
+        "room_name": "æ´—é¢å®¤",
         "room_num": 300
       }
     ]
