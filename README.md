@@ -6,7 +6,7 @@
 | No. | API機能No. | 種別 | API名 | 機能概要 |
 |-----------:|:-----------|:-----------|:-----------|:-----------|
 | 0 | building-000| API | building_API | 建物の番号と座標を返す　|
-| 1 | room-001 | API | room_API | [WIP]予定では建物内の番号など　|
+| 1 | room-001 | API | room_API | 予定では建物内の番号など　|
 
 ## building-000
 | API機能No. | building-000 |
