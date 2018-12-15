@@ -1,306 +1,306 @@
 [
   {
     "build_num": 3,
-    "pdf": "/assets/campus_pdf/2†ŠÙi’nˆæŒv‰æŒ¤‹†Šj 3†ŠÙ.pdf",
+    "pdf": "/assets/campus_pdf/2å·é¤¨ï¼ˆåœ°åŸŸè¨ˆç”»ç ”ç©¶æ‰€ï¼‰ 3å·é¤¨.pdf",
     "detail": [
       {
-        "room_name": "‰ï‹cº",
+        "room_name": "ä¼šè­°å®¤",
         "room_num": 101
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 103
       },
       {
-        "room_name": "‰Úº",
+        "room_name": "å¿œæ¥å®¤",
         "room_num": 104
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 105
       },
       {
-        "room_name": "––±º",
+        "room_name": "äº‹å‹™å®¤",
         "room_num": 106
       },
       {
-        "room_name": "‘—¿º",
+        "room_name": "è³‡æ–™å®¤",
         "room_num": 107
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 108
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 109
       },
       {
-        "room_name": "‰‰Kº",
+        "room_name": "æ¼”ç¿’å®¤",
         "room_num": 110
       },
       {
-        "room_name": "ŠíŞ¿",
+        "room_name": "å™¨æè³ª",
         "room_num": 111
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 113
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 116
       },
       {
-        "room_name": "“d‹Cº",
+        "room_name": "é›»æ°—å®¤",
         "room_num": 117
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": "118-1"
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": "118-2"
       },
       {
-        "room_name": "‹@ŠBº",
+        "room_name": "æ©Ÿæ¢°å®¤",
         "room_num": 119
       },
       {
-        "room_name": "AE‘—¿º",
+        "room_name": "å°±è·è³‡æ–™å®¤",
         "room_num": 120
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 121
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 123
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 124
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 125
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 126
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 127
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 128
       },
       {
-        "room_name": "€”õº",
+        "room_name": "æº–å‚™å®¤",
         "room_num": 129
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 130
       },
       {
-        "room_name": "ƒXƒvƒŒ[ƒu[ƒX",
+        "room_name": "ã‚¹ãƒ—ãƒ¬ãƒ¼ãƒ–ãƒ¼ã‚¹",
         "room_num": 131
       },
       {
-        "room_name": "‹¤“¯–ÍŒ^º(1)",
+        "room_name": "å…±åŒæ¨¡å‹å®¤(1)",
         "room_num": 132
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 133
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 134
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 135
       },
       {
-        "room_name": "‘qŒÉ",
+        "room_name": "å€‰åº«",
         "room_num": 100
       },
       {
-        "room_name": "ƒ‰ƒEƒ“ƒW",
+        "room_name": "ãƒ©ã‚¦ãƒ³ã‚¸",
         "room_num": 100
       },
       {
-        "room_name": "‹@ŠBº",
+        "room_name": "æ©Ÿæ¢°å®¤",
         "room_num": 100
       },
       {
-        "room_name": "’jqWC",
+        "room_name": "ç”·å­WC",
         "room_num": 100
       },
       {
-        "room_name": "—qWC",
+        "room_name": "å¥³å­WC",
         "room_num": 100
       },
       {
-        "room_name": "—qWC",
+        "room_name": "å¥³å­WC",
         "room_num": 100
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 202
       },
       {
-        "room_name": "‰ï‹cº",
+        "room_name": "ä¼šè­°å®¤",
         "room_num": 203
       },
       {
-        "room_name": "‰‰Kº",
+        "room_name": "æ¼”ç¿’å®¤",
         "room_num": 205
       },
       {
-        "room_name": "‰‰Kº",
+        "room_name": "æ¼”ç¿’å®¤",
         "room_num": 207
       },
       {
-        "room_name": "‰‰Kº",
+        "room_name": "æ¼”ç¿’å®¤",
         "room_num": 209
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 210
       },
       {
-        "room_name": "‘—¿º",
+        "room_name": "è³‡æ–™å®¤",
         "room_num": 213
       },
       {
-        "room_name": "‘—¿º",
+        "room_name": "è³‡æ–™å®¤",
         "room_num": 214
       },
       {
-        "room_name": "ÀŒ±º",
+        "room_name": "å®Ÿé¨“å®¤",
         "room_num": 215
       },
       {
-        "room_name": "u‹`º",
+        "room_name": "è¬›ç¾©å®¤",
         "room_num": 217
       },
       {
-        "room_name": "u‹`º",
+        "room_name": "è¬›ç¾©å®¤",
         "room_num": 218
       },
       {
-        "room_name": "ƒeƒ‰ƒX",
+        "room_name": "ãƒ†ãƒ©ã‚¹",
         "room_num": 200
       },
       {
-        "room_name": "’jqWC",
+        "room_name": "ç”·å­WC",
         "room_num": 200
       },
       {
-        "room_name": "—qWC",
+        "room_name": "å¥³å­WC",
         "room_num": 200
       },
       {
-        "room_name": "‹¤“¯º",
+        "room_name": "å…±åŒå®¤",
         "room_num": 231
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 232
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 232
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 233
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 234
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 235
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "302-1"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "302-2"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "303-1"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "303-2"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "304-1"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "304-2"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 305
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 306
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 307
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 308
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": 309
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "310-1"
       },
       {
-        "room_name": "ˆóüº",
+        "room_name": "å°åˆ·å®¤",
         "room_num": "310-2"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "311-1"
       },
       {
-        "room_name": "Œ¤‹†º",
+        "room_name": "ç ”ç©¶å®¤",
         "room_num": "311-2"
       },
       {
-        "room_name": "’jqWC",
+        "room_name": "ç”·å­WC",
         "room_num": 300
       },
       {
-        "room_name": "—qWC",
+        "room_name": "å¥³å­WC",
         "room_num": 300
       },
       {
-        "room_name": "“’•¦",
+        "room_name": "æ¹¯æ²¸",
         "room_num": 300
       }
     ]
