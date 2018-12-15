@@ -1,0 +1,160 @@
+[
+  {
+    "build_num": 5,
+    "pdf": "assets/campus_pdf/5号館（1F：金沢工業大学内簡易郵便局） .pdf",
+    "detail": [
+      {
+        "room_name": "room_name",
+        "room_num": "room_num"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "5･100"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "5･10"
+      },
+      {
+        "room_name": "女子ＷＣ",
+        "room_num": "5･100"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･101"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "5･102"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "5･103"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "5･104"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "5･105"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･106"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･107"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･108"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･109"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･110"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "5･111"
+      },
+      {
+        "room_name": "簡易郵便局",
+        "room_num": "5･112"
+      },
+      {
+        "room_name": null,
+        "room_num": "5･113"
+      },
+      {
+        "room_name": null,
+        "room_num": "5･114"
+      },
+      {
+        "room_name": null,
+        "room_num": "5･117"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "5･200"
+      },
+      {
+        "room_name": "女子ＷＣ",
+        "room_num": "5･200"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "5･201"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "5･202"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "5･203"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "5･204"
+      },
+      {
+        "room_name": "ゼミ室",
+        "room_num": "5･205"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "5･206"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "5･207"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･208"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･209"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･210"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･211"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･212"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･213"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･214"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･215"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "5･216"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "5･217"
+      }
+    ]
+  }
+]

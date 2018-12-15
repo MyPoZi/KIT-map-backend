@@ -1,0 +1,52 @@
+﻿[
+  {
+    "build_num": 15,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-1.png",
+    "detail": [
+      {
+        "room_name": "プロジェクト室あかり",
+        "room_num": 101
+      },
+      {
+        "room_name": "電気室",
+        "room_num": 102
+      },
+      {
+        "room_name": "管理機器室",
+        "room_num": 103
+      },
+      {
+        "room_name": "消火ポンプ",
+        "room_num": 104
+      },
+      {
+        "room_name": "学生ラウンジ",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子更衣室",
+        "room_num": 105
+      },
+      {
+        "room_name": "前室",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "EV",
+        "room_num": 100
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      }
+    ]
+  }
+]

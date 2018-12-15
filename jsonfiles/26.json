@@ -1,0 +1,68 @@
+[
+  {
+    "build_num": 26,
+    "pdf": "/assets/campus_pdf/26.pdf",
+    "detail": [
+      {
+        "room_name": "C��-Lounge",
+        "room_num": 100
+      },
+      {
+        "room_name": "Experiment Zone",
+        "room_num": 100
+      },
+      {
+        "room_name": "Discussion Area",
+        "room_num": 100
+      },
+      {
+        "room_name": "Co-Creation Workspace",
+        "room_num": 100
+      },
+      {
+        "room_name": "Staff Zone",
+        "room_num": 100
+      },
+      {
+        "room_name": "Febrication Zone",
+        "room_num": 100
+      },
+      {
+        "room_name": "������",
+        "room_num": 100
+      },
+      {
+        "room_name": "�j�qWC",
+        "room_num": 100
+      },
+      {
+        "room_name": "���qWC",
+        "room_num": 100
+      },
+      {
+        "room_name": "���b�J�[",
+        "room_num": 100
+      },
+      {
+        "room_name": "�O���q��",
+        "room_num": 100
+      },
+      {
+        "room_name": "C��-Lounge",
+        "room_num": 100
+      },
+      {
+        "room_name": "Modeling Zone",
+        "room_num": 200
+      },
+      {
+        "room_name": "Seminar Room",
+        "room_num": 200
+      },
+      {
+        "room_name": "Meeting Zone",
+        "room_num": 200
+      }
+    ]
+  }
+]

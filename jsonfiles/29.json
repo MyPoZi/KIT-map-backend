@@ -1,0 +1,68 @@
+[
+  {
+    "build_num": 29,
+    "pdf": "/assets/campus_pdf/29.pdf",
+    "detail": [
+      {
+        "room_name": "演習室",
+        "room_num": 101
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 102
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "ホール",
+        "room_num": 100
+      },
+      {
+        "room_name": "ポーチ",
+        "room_num": 100
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "ホール",
+        "room_num": 200
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      }
+    ]
+  }
+]

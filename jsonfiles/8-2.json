@@ -1,0 +1,60 @@
+﻿[
+  {
+    "build_num": 8,
+    "pdf": "/assets/campus_pdf/Mappng2/08/08-2.png",
+    "detail": [
+      {
+        "room_name": "講義室",
+        "room_num": 201
+      },
+      {
+        "room_name": "プリンター",
+        "room_num": 200
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 202
+      },
+      {
+        "room_name": "空調管理室",
+        "room_num": 203
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 204
+      },
+      {
+        "room_name": "自己開発センター",
+        "room_num": 205
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 206
+      },
+      {
+        "room_name": "教員控室",
+        "room_num": 207
+      },
+      {
+        "room_name": "ラウンジ",
+        "room_num": 100
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 100
+      },
+      {
+        "room_name": "EV",
+        "room_num": 100
+      }
+    ]
+  }
+]

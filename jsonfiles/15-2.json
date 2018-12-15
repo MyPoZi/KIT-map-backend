@@ -1,0 +1,64 @@
+﻿[
+  {
+    "build_num": 15,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-2.png",
+    "detail": [
+      {
+        "room_name": "会議室1",
+        "room_num": 201
+      },
+      {
+        "room_name": "会議室2",
+        "room_num": 202
+      },
+      {
+        "room_name": "会議室3",
+        "room_num": 203
+      },
+      {
+        "room_name": "会議室5",
+        "room_num": 205
+      },
+      {
+        "room_name": "会議室4",
+        "room_num": 204
+      },
+      {
+        "room_name": "会議室6",
+        "room_num": 206
+      },
+      {
+        "room_name": "面談室1",
+        "room_num": 207
+      },
+      {
+        "room_name": "面談室2",
+        "room_num": 208
+      },
+      {
+        "room_name": "面談室3",
+        "room_num": 209
+      },
+      {
+        "room_name": "面談室4",
+        "room_num": 210
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 211
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "給湯",
+        "room_num": 200
+      },
+      {
+        "room_name": "EV",
+        "room_num": 200
+      }
+    ]
+  }
+]

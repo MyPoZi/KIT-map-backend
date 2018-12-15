@@ -1,0 +1,28 @@
+﻿[
+  {
+    "build_num": 12,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-1.png",
+    "detail": [
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "",
+        "room_num": 101
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 103
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 102
+      }
+    ]
+  }
+]

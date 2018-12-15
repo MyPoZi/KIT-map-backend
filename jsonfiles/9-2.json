@@ -1,0 +1,44 @@
+﻿[
+  {
+    "build_num": 9,
+    "pdf": "/assets/campus_pdf/Mappng2/09/09-2.png",
+    "detail": [
+      {
+        "room_name": "倉庫室",
+        "room_num": 201
+      },
+      {
+        "room_name": "再視聴室",
+        "room_num": 202
+      },
+      {
+        "room_name": "再視聴室",
+        "room_num": 203
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 204
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 205
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 206
+      },
+      {
+        "room_name": "EV",
+        "room_num": 200
+      }
+    ]
+  }
+]

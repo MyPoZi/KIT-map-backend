@@ -1,0 +1,164 @@
+[
+  {
+    "build_num": 28,
+    "pdf": "/assets/campus_pdf/28.pdf",
+    "detail": [
+      {
+        "room_name": "スタジオ4",
+        "room_num": 100
+      },
+      {
+        "room_name": "スタジオ3",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "局長室",
+        "room_num": 100
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫1",
+        "room_num": 100
+      },
+      {
+        "room_name": "玄関ホール",
+        "room_num": 100
+      },
+      {
+        "room_name": "校友会",
+        "room_num": 100
+      },
+      {
+        "room_name": "電気室",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫2",
+        "room_num": 100
+      },
+      {
+        "room_name": "発電機室",
+        "room_num": 100
+      },
+      {
+        "room_name": "製作機材室",
+        "room_num": 100
+      },
+      {
+        "room_name": "製作機材室",
+        "room_num": 100
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 100
+      },
+      {
+        "room_name": "総務室",
+        "room_num": 100
+      },
+      {
+        "room_name": "更衣室",
+        "room_num": 100
+      },
+      {
+        "room_name": "更衣室",
+        "room_num": 100
+      },
+      {
+        "room_name": "給油室",
+        "room_num": 100
+      },
+      {
+        "room_name": "スタジオ2",
+        "room_num": 100
+      },
+      {
+        "room_name": "交流ラウンジ",
+        "room_num": 100
+      },
+      {
+        "room_name": "FMN1事務室",
+        "room_num": 100
+      },
+      {
+        "room_name": "スタジオ1",
+        "room_num": 100
+      },
+      {
+        "room_name": "倉庫3",
+        "room_num": 200
+      },
+      {
+        "room_name": "FMN1多目的ホール",
+        "room_num": 200
+      },
+      {
+        "room_name": "スタジオ5",
+        "room_num": 200
+      },
+      {
+        "room_name": "WAVEプロジェクトスペース",
+        "room_num": 200
+      },
+      {
+        "room_name": "スタッフスペース",
+        "room_num": 200
+      },
+      {
+        "room_name": "倉庫4",
+        "room_num": 200
+      },
+      {
+        "room_name": "編成室",
+        "room_num": 200
+      },
+      {
+        "room_name": "編成室",
+        "room_num": 200
+      },
+      {
+        "room_name": "校友会事務室",
+        "room_num": 200
+      },
+      {
+        "room_name": "給湯室",
+        "room_num": 200
+      },
+      {
+        "room_name": "打合室",
+        "room_num": 200
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "校友会多目的ホール",
+        "room_num": 200
+      },
+      {
+        "room_name": "倉庫5",
+        "room_num": 200
+      }
+    ]
+  }
+]

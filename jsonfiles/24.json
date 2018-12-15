@@ -1,0 +1,248 @@
+[
+  {
+    "build_num": 24,
+    "pdf": "/assets/campus_pdf/24.pdf",
+    "detail": [
+      {
+        "room_name": "生物化学実験室",
+        "room_num": 101
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 108
+      },
+      {
+        "room_name": "電気室",
+        "room_num": 109
+      },
+      {
+        "room_name": "実験室",
+        "room_num": "110-2"
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 111
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 112
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 113
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 114
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 115
+      },
+      {
+        "room_name": "科学専門実験室",
+        "room_num": "117-1"
+      },
+      {
+        "room_name": "創造実験室",
+        "room_num": "117-2"
+      },
+      {
+        "room_name": "科学専門実験室",
+        "room_num": "117-3"
+      },
+      {
+        "room_name": "",
+        "room_num": 118
+      },
+      {
+        "room_name": "",
+        "room_num": 119
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 122
+      },
+      {
+        "room_name": "プロパン庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "中庭",
+        "room_num": 100
+      },
+      {
+        "room_name": "玄関",
+        "room_num": 100
+      },
+      {
+        "room_name": "ギャラリー",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "プロパン庫",
+        "room_num": 100
+      },
+      {
+        "room_name": "プロジェクトデザイン実験室",
+        "room_num": 201
+      },
+      {
+        "room_name": "防音室",
+        "room_num": 206
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 207
+      },
+      {
+        "room_name": "印刷室",
+        "room_num": 209
+      },
+      {
+        "room_name": "更衣室",
+        "room_num": 210
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 211
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 212
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 213
+      },
+      {
+        "room_name": "事務室",
+        "room_num": 214
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 215
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "製図室",
+        "room_num": 301
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 302
+      },
+      {
+        "room_name": "資料室",
+        "room_num": 303
+      },
+      {
+        "room_name": "プロジェクトデザイン実験室",
+        "room_num": 305
+      },
+      {
+        "room_name": "資料室",
+        "room_num": 306
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 308
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "プロジェクトデザイン実験室",
+        "room_num": 401
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 404
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 405
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 406
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 407
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 408
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "テラス",
+        "room_num": 400
+      },
+      {
+        "room_name": "CAD演習室",
+        "room_num": 501
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 502
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 503
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 504
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 505
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 506
+      },
+      {
+        "room_name": "CAD演習室",
+        "room_num": 507
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 500
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 500
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+﻿[
+  {
+    "build_num": 11,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-2.png",
+    "detail": [
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 212
+      },
+      {
+        "room_name": "委員会堂",
+        "room_num": 210
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 209
+      },
+      {
+        "room_name": "コピー室",
+        "room_num": 208
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 207
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 206
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 205
+      },
+      {
+        "room_name": "委員会室",
+        "room_num": 204
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 202
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "201-1"
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "201-2"
+      },
+      {
+        "room_name": "",
+        "room_num": "203-1"
+      },
+      {
+        "room_name": "応接間",
+        "room_num": 200
+      },
+      {
+        "room_name": "応接間",
+        "room_num": 200
+      },
+      {
+        "room_name": "",
+        "room_num": "203-2"
+      }
+    ]
+  }
+]

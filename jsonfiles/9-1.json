@@ -1,0 +1,56 @@
+﻿[
+  {
+    "build_num": 9,
+    "pdf": "/assets/campus_pdf/Mappng2/09/09-1.png",
+    "detail": [
+      {
+        "room_name": "事務室",
+        "room_num": 101
+      },
+      {
+        "room_name": "カウンセリング室1",
+        "room_num": 102
+      },
+      {
+        "room_name": "カウンセリング室2",
+        "room_num": 103
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 104
+      },
+      {
+        "room_name": "教員室",
+        "room_num": 105
+      },
+      {
+        "room_name": "図書室",
+        "room_num": 106
+      },
+      {
+        "room_name": "パソコン室",
+        "room_num": 107
+      },
+      {
+        "room_name": "談話室",
+        "room_num": 108
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 109
+      },
+      {
+        "room_name": "EV",
+        "room_num": 100
+      }
+    ]
+  }
+]

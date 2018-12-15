@@ -1,0 +1,92 @@
+﻿[
+  {
+    "build_num": 7,
+    "pdf": "/assets/campus_pdf/Mappng2/07/07-2.png",
+    "detail": [
+      {
+        "room_name": "機械室",
+        "room_num": 401
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 411
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 412
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 413
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 403
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 404
+      },
+      {
+        "room_name": "工学設計室",
+        "room_num": 405
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 430
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 429
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 428
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 427
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 426
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 425
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 424
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 423
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 422
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 421
+      },
+      {
+        "room_name": "WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "EV",
+        "room_num": 400
+      }
+    ]
+  }
+]

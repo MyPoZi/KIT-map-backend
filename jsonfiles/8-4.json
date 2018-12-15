@@ -1,0 +1,60 @@
+﻿[
+  {
+    "build_num": 8,
+    "pdf": "/assets/campus_pdf/Mappng2/08/08-4.png",
+    "detail": [
+      {
+        "room_name": "講義室",
+        "room_num": 401
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 402
+      },
+      {
+        "room_name": "空調管理室",
+        "room_num": 403
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 404
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 405
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 406
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 407
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 408
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 409
+      },
+      {
+        "room_name": "準備室",
+        "room_num": 410
+      },
+      {
+        "room_name": "EV",
+        "room_num": 400
+      }
+    ]
+  }
+]

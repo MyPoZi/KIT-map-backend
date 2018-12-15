@@ -1,0 +1,20 @@
+﻿[
+  {
+    "build_num": 12,
+    "pdf": "/assets/campus_pdf/Mappng2/10-15/10-15-3.png",
+    "detail": [
+      {
+        "room_name": "倉庫",
+        "room_num": 302
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "アントレプレナーズラボ",
+        "room_num": 301
+      }
+    ]
+  }
+]

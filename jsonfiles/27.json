@@ -1,0 +1,40 @@
+[
+  {
+    "build_num": 27,
+    "pdf": "/assets/campus_pdf/27.pdf",
+    "detail": [
+      {
+        "room_name": "Eagle gallary",
+        "room_num": 101
+      },
+      {
+        "room_name": "自販機コーナー",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "風除室",
+        "room_num": 100
+      },
+      {
+        "room_name": "ラウンジ",
+        "room_num": 100
+      },
+      {
+        "room_name": "コンビニエンスACQUA",
+        "room_num": 200
+      },
+      {
+        "room_name": "ベーカリー厨房",
+        "room_num": 204
+      }
+    ]
+  }
+]

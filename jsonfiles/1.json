@@ -1,0 +1,336 @@
+[
+  {
+    "build_num": 1,
+    "pdf": "assets/campus_pdf/1号館（2F：大学事務局）（4F：教職支援室） .pdf",
+    "detail": [
+      {
+        "room_name": "room_name",
+        "room_num": "room_num"
+      },
+      {
+        "room_name": "受付",
+        "room_num": "1･100"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "1･100"
+      },
+      {
+        "room_name": "女子ＷＣ",
+        "room_num": "1･100"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･106"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･107"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･108"
+      },
+      {
+        "room_name": "企画課 入試センター 広報",
+        "room_num": "1･109"
+      },
+      {
+        "room_name": "会議室",
+        "room_num": "1･110"
+      },
+      {
+        "room_name": "守衛室",
+        "room_num": "1･111"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "1･112"
+      },
+      {
+        "room_name": "キャンパス 案内受付",
+        "room_num": "1･113"
+      },
+      {
+        "room_name": "控室",
+        "room_num": "1･116"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "1･119"
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": "1･120"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "1･200"
+      },
+      {
+        "room_name": null,
+        "room_num": "1･202"
+      },
+      {
+        "room_name": null,
+        "room_num": "1･203"
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "1･204"
+      },
+      {
+        "room_name": "庶務課",
+        "room_num": "1･205"
+      },
+      {
+        "room_name": "1号館事務室 非常勤講師控室",
+        "room_num": "1･206"
+      },
+      {
+        "room_name": "1号館事務室 非常勤講師控室",
+        "room_num": "1･207"
+      },
+      {
+        "room_name": "副学長室",
+        "room_num": "1･208"
+      },
+      {
+        "room_name": "応接室",
+        "room_num": "1･209"
+      },
+      {
+        "room_name": "教務 部長室",
+        "room_num": "1･210"
+      },
+      {
+        "room_name": "入試 部長室",
+        "room_num": "1･211"
+      },
+      {
+        "room_name": "応接室",
+        "room_num": "1･212"
+      },
+      {
+        "room_name": "応接室",
+        "room_num": "1･213"
+      },
+      {
+        "room_name": null,
+        "room_num": "1･21?"
+      },
+      {
+        "room_name": "客員教授室",
+        "room_num": "1･216"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･217"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･218"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･219"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･220"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･221"
+      },
+      {
+        "room_name": "学生部長室",
+        "room_num": "1･222"
+      },
+      {
+        "room_name": "応接室",
+        "room_num": "1･223"
+      },
+      {
+        "room_name": "客員教授室",
+        "room_num": "1･224"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･225"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･226"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "1･300"
+      },
+      {
+        "room_name": "ロッカー室",
+        "room_num": "1･300"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･301"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･302"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･304"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･305"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･306"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･307"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･308"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･309"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･310"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･311"
+      },
+      {
+        "room_name": "研究室 ",
+        "room_num": "1･312"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･313"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･314"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･315"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･316"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･317"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･318"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･319"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･320"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "1･321"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "1･322"
+      },
+      {
+        "room_name": "印刷室",
+        "room_num": "1･323"
+      },
+      {
+        "room_name": "男子ＷＣ",
+        "room_num": "1･400"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･401"
+      },
+      {
+        "room_name": "講義室",
+        "room_num": "1･402"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･403"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･404"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･405"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･406"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･407"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･408"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･409"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･410-1"
+      },
+      {
+        "room_name": null,
+        "room_num": "1･410-2"
+      },
+      {
+        "room_name": "作業室",
+        "room_num": "1･410-3"
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "1･411"
+      },
+      {
+        "room_name": "事務室",
+        "room_num": "1･412"
+      },
+      {
+        "room_name": "教職支援室",
+        "room_num": "1･413"
+      },
+      {
+        "room_name": "研究室",
+        "room_num": "1･414"
+      },
+      {
+        "room_name": "準備室",
+        "room_num": "1･416"
+      }
+    ]
+  }
+]

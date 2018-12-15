@@ -1,0 +1,528 @@
+[
+  {
+    "build_num": 23,
+    "pdf": "/assets/campus_pdf/23.pdf",
+    "detail": [
+      {
+        "room_name": "学生ステーション",
+        "room_num": 101
+      },
+      {
+        "room_name": "コラボレーションスタジオ",
+        "room_num": 102
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 103
+      },
+      {
+        "room_name": "コミュニケーションスタジオ",
+        "room_num": 104
+      },
+      {
+        "room_name": "パフォーミングスタジオ",
+        "room_num": 105
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 106
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 107
+      },
+      {
+        "room_name": "清掃控室",
+        "room_num": 108
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 109
+      },
+      {
+        "room_name": "EV",
+        "room_num": 100
+      },
+      {
+        "room_name": "プリンター",
+        "room_num": 100
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 100
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 100
+      }
+      {
+        "room_name": "自動販売機",
+        "room_num": 100
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 201
+      },
+      {
+        "room_name": "コピー室",
+        "room_num": 202
+      },
+      {
+        "room_name": "基礎英語教育センター・LOGOS",
+        "room_num": 203
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 204
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 205
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 206
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 207
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 208
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 209
+      },
+      {
+        "room_name": "AV機械室",
+        "room_num": 210
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 211
+      },
+      {
+        "room_name": "OA機械室",
+        "room_num": 212
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 213
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 214
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 215
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 216
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 217
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 218
+      },
+      {
+        "room_name": "AV機械室",
+        "room_num": 219
+      },
+      {
+        "room_name": "OA機械室",
+        "room_num": 220
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 221
+      },
+      {
+        "room_name": "留学支援室",
+        "room_num": 200
+      },
+      {
+        "room_name": "ラウンジ",
+        "room_num": 200
+      },
+      {
+        "room_name": "クロスラウンジ",
+        "room_num": 200
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 200
+      },
+      {
+        "room_name": "EV",
+        "room_num": 200
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 301
+      },
+      {
+        "room_name": "基礎英語教育センター",
+        "room_num": 302
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 303
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 304
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 305
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 306
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 307
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 308
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 309
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 310
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 311
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 312
+      },
+      {
+        "room_name": "英語センター長室",
+        "room_num": 313
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 314
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 315
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 316
+      },
+      {
+        "room_name": "研究室",
+        "room_num": 317
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 318
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 319
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 320
+      },
+      {
+        "room_name": "OA機器室",
+        "room_num": 321
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 322
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 323
+      },
+      {
+        "room_name": "OA機器室",
+        "room_num": 324
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 325
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 326
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 327
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 328
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 329
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 330
+      },
+      {
+        "room_name": "OA機器室",
+        "room_num": 331
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 332
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 333
+      },
+      {
+        "room_name": "OA機器室",
+        "room_num": 334
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 335
+      },
+      {
+        "room_name": "印刷室",
+        "room_num": 337
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 338
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "EV",
+        "room_num": 300
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 401
+      },
+      {
+        "room_name": "数理工教育研究センター",
+        "room_num": 403
+      },
+      {
+        "room_name": "小教室",
+        "room_num": "404-1"
+      },
+      {
+        "room_name": "小教室",
+        "room_num": "404-2"
+      },
+      {
+        "room_name": "顧問室",
+        "room_num": 405
+      },
+      {
+        "room_name": "談話室",
+        "room_num": 406
+      },
+      {
+        "room_name": "",
+        "room_num": 407
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 408
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 409
+      },
+      {
+        "room_name": "OA機器室",
+        "room_num": 410
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 411
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 412
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 413
+      },
+      {
+        "room_name": "AV機器室",
+        "room_num": 414
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 415
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 416
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 417
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 400
+      },
+      {
+        "room_name": "演習コーナー",
+        "room_num": 400
+      },
+      {
+        "room_name": "EV",
+        "room_num": 400
+      },
+      {
+        "room_name": "男性更衣室",
+        "room_num": 400
+      },
+      {
+        "room_name": "女性更衣室",
+        "room_num": 400
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 400
+      },
+      {
+        "room_name": "屋外機械置場",
+        "room_num": 501
+      },
+      {
+        "room_name": "数理工教育研究センター",
+        "room_num": 502
+      },
+      {
+        "room_name": "演習コーナー",
+        "room_num": 502
+      },
+      {
+        "room_name": "小教室",
+        "room_num": "503-1"
+      },
+      {
+        "room_name": "小教室",
+        "room_num": "503-2"
+      },
+      {
+        "room_name": "会議室",
+        "room_num": 504
+      },
+      {
+        "room_name": "センター長室",
+        "room_num": 505
+      },
+      {
+        "room_name": "小教室",
+        "room_num": 506
+      },
+      {
+        "room_name": "屋外機械置場",
+        "room_num": 508
+      },
+      {
+        "room_name": "空調機械室",
+        "room_num": 509
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 510
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 511
+      },
+      {
+        "room_name": "",
+        "room_num": 512
+      },
+      {
+        "room_name": "AV・OA機器室",
+        "room_num": 513
+      },
+      {
+        "room_name": "講義室",
+        "room_num": 514
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 500
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 500
+      },
+      {
+        "room_name": "多目的WC",
+        "room_num": 500
+      },
+      {
+        "room_name": "EV",
+        "room_num": 500
+      },
+      {
+        "room_name": "男子更衣室",
+        "room_num": 500
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 500
+      }
+    ]
+  }
+]

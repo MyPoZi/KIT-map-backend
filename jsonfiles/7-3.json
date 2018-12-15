@@ -1,0 +1,84 @@
+﻿[
+  {
+    "build_num": 7,
+    "pdf": "/assets/campus_pdf/Mappng2/07/07-2.png",
+    "detail": [
+      {
+        "room_name": "演習室",
+        "room_num": 301
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 302
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 303
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 304
+      },
+      {
+        "room_name": "男子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "女子WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 305
+      },
+      {
+        "room_name": "演習室",
+        "room_num": 306
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 307
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 308
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 309
+      },
+      {
+        "room_name": "倉庫",
+        "room_num": 310
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 311
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 312
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 313
+      },
+      {
+        "room_name": "実験室",
+        "room_num": 314
+      },
+      {
+        "room_name": "機械室",
+        "room_num": 315
+      },
+      {
+        "room_name": "WC",
+        "room_num": 300
+      },
+      {
+        "room_name": "EV",
+        "room_num": 300
+      }
+    ]
+  }
+]
