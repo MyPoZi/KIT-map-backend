@@ -35,6 +35,7 @@ func returnResponse(w http.ResponseWriter, body Json) {
 	}
 
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Write(res)
 	return
 }
@@ -86,6 +87,7 @@ func handleGet(w http.ResponseWriter, r *http.Request) (err error) {
 				http.Error(w, err.Error(), http.StatusInternalServerError)
 			}
 			w.Header().Set("Content-Type", "application/json")
+			w.Header().Set("Access-Control-Allow-Origin", "*")
 			w.Write(res)
 		}
 		return

@@ -84,6 +84,7 @@ func returnResponse(w http.ResponseWriter, body Json) {
 	}
 
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Write(res)
 	return
 }
